@@ -1,0 +1,13 @@
+// Verilog instantiation template created from schematic C:\Users\GW\Desktop\91515855E115\alu\add1b.sch - Mon Jun 12 19:41:13 2017
+//
+// Notes: 
+// To use this template to instantiate this component,cut-and-paste and then edit
+//
+// Instantiate the UUT
+   add1b UUT (
+		.a(    ), 
+		.b(    ), 
+		.ci(    ), 
+		.r(    ), 
+		.co(    )
+   );
